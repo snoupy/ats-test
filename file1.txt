@@ -1,6 +1,13 @@
 j'ai fait une modif
 tcho
+<<<<<<< HEAD
 asdf
 asdf
 as
 f
+=======
+suppositoir
+>>>>>>> d67461b367369260b8f915e35e812699d56cf6a5
+
+
+re modif locale
