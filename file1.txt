@@ -1,14 +1,5 @@
-salut toto
-debut
 11
 00
 aaa
 salut
-bbb
-ccc
-coucou
-<<<<<<< HEAD
-turc a la fin local
-=======
-truc a la fin remote
->>>>>>> e8a76930eb3d86803d0ab8ba4bd48a1413ee7280
+
