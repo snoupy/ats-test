@@ -1,7 +1,8 @@
-je rajoute une ligne au début
+je rajoute une ligne au dï¿½but
 11
 00
 aaa
 salut
 bbb
 ccc
+encore une ligne a la fin
