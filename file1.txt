@@ -1,12 +1,1 @@
-0000000000
-aaaaaaaaaaaaaaaaa
-ajout debut
-clair
-bien
-ajout fin
-cest net
-cgfgh
-asdf
-aaaaaaaaaa
-bbbbbbbbbbb
-cccccccccccccccccc
+000
