@@ -1,11 +1,1 @@
-aaaaaaaaaaaaaaaama modif locale au debug
-11
-00
-aaa
-salut
-
-truc a la fin local avec ma modif au passage
-sdafasdf
-aaaaaaaaaaaaa
-cccccccccccccccccc
-ddddddddddddddddddddddd
+bien
